@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smith/PycharmProjects/Mlops_tuto/mlruns/0/611c3b7c0b4948b382bfd81ffc81b07e/artifacts
+end_time: 1716397560730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611c3b7c0b4948b382bfd81ffc81b07e
+run_name: clean-quail-209
+run_uuid: 611c3b7c0b4948b382bfd81ffc81b07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716397558825
+status: 3
+tags: []
+user_id: smith

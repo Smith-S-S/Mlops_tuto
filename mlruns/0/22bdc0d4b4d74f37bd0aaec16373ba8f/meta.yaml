@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smith/PycharmProjects/Mlops_tuto/mlruns/0/22bdc0d4b4d74f37bd0aaec16373ba8f/artifacts
+end_time: 1716397583198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22bdc0d4b4d74f37bd0aaec16373ba8f
+run_name: efficient-jay-260
+run_uuid: 22bdc0d4b4d74f37bd0aaec16373ba8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716397581630
+status: 3
+tags: []
+user_id: smith

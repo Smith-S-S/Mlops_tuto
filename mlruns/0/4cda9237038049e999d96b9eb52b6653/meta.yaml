@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smith/PycharmProjects/Mlops_tuto/mlruns/0/4cda9237038049e999d96b9eb52b6653/artifacts
+end_time: 1716397053625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cda9237038049e999d96b9eb52b6653
+run_name: righteous-ram-810
+run_uuid: 4cda9237038049e999d96b9eb52b6653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716397053601
+status: 4
+tags: []
+user_id: smith
