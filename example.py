@@ -17,7 +17,10 @@ import logging
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
 
+import dagshub
 
+#dagshub.init(repo_owner='Smith-S-S', repo_name='Mlops_tuto', mlflow=True)
+"""for the dagshub"""
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
     mae = mean_absolute_error(actual, pred)
@@ -70,6 +73,10 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
+        # REMOT_URI= "https://dagshub.com/Smith-S-S/Mlops_tuto.mlflow"
+        REMOT_URI="http://ec2-13-51-251-19.eu-north-1.compute.amazonaws.com:5000/"
+
+        mlflow.get_tracking_uri(REMOT_URI)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
         # Model registry does not work with file store

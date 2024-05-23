@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/smith/PycharmProjects/Mlops_tuto/mlruns/0/7056bee889354a568673116b6cbcf704/artifacts
+end_time: 1716444620600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7056bee889354a568673116b6cbcf704
+run_name: tasteful-crane-89
+run_uuid: 7056bee889354a568673116b6cbcf704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716444620560
+status: 4
+tags: []
+user_id: smith
